@@ -1,0 +1,16 @@
+{
+	"@type":"Dimension",
+	"Name":"Time",
+	"AllLeavesHierarchyName":"Leaves",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Time')/Hierarchies('Time')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Time.hierarchies/Time.json",
+		"Time.hierarchies/Months.json",
+		"Time.hierarchies/Quarters.json",
+		"Time.hierarchies/Years.json"
+	]
+}

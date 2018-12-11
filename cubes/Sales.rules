@@ -1,0 +1,7 @@
+UNDEFVALS;
+SKIPCHECK;
+
+['UnitPrice']=['Revenue']\['Quantity'];
+
+FEEDERS;
+['Quantity']=>['UnitPrice'];

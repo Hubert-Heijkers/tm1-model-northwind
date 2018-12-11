@@ -1,0 +1,13 @@
+{
+	"@type":"Dimension",
+	"Name":"Customers",
+	"AllLeavesHierarchyName":"",
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Customers')/Hierarchies('Customers')"
+	},
+	"Hierarchies@Code.links":
+	[
+		"Customers.hierarchies/Customers.json"
+	]
+}

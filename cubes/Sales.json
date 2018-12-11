@@ -1,0 +1,24 @@
+{
+	"@type":"Cube",
+	"Name":"Sales",
+	"Rules@Code.link":"Sales.rules",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Products')"
+		},
+		{
+			"@id":"Dimensions('Customers')"
+		},
+		{
+			"@id":"Dimensions('Employees')"
+		},
+		{
+			"@id":"Dimensions('Time')"
+		},
+		{
+			"@id":"Dimensions('Measures')"
+		}
+	],
+	"Views@Code.links":[]
+}
