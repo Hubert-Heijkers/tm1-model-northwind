@@ -20,5 +20,8 @@
 			"@id":"Dimensions('Measures')"
 		}
 	],
-	"Views@Code.links":[]
+	"Views@Code.links":
+	[
+		"Sales.views/View01.json"
+	]
 }
